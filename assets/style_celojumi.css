@@ -1,0 +1,169 @@
+#apraksts{
+
+margin: 15rem auto 0 auto;
+text-align: center;
+
+}
+
+#apraksts h3{
+
+color: var(--maincolor);
+background: var(--box-bg);
+font-family: var(--rob);
+margin: 0 auto;
+text-align: center;
+width: 300px;
+font-size: 3rem;
+
+}
+
+#apraksts p{
+
+margin: 2rem 2rem 0 2rem;
+color: var(--textcolor);
+font-size: 1.3rem;
+line-height: 2rem;
+margin: 2rem;
+font-family: var(--exo); 
+
+}
+
+
+
+
+.filtracija{
+ 
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 1.5rem 3rem;
+opacity: 0; 
+transform: translateX(-100%);
+animation-fill-mode: forwards; 
+box-shadow: var(--box-shadow);
+transition: opacity 0.5s ease-out;
+z-index: 2;
+position: relative;
+background: var(--secendcolor);
+
+}
+
+
+@keyframes slideInFromLeft {
+    0% {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.filtracija.fade-rigth {
+
+animation: slideInFromLeft 1s ease-out forwards;
+
+}
+
+
+.filt-alf button{
+
+font-weight: bold;
+color: var(--maincolor);
+background: var(--box-bg);
+padding: .5rem 1rem; 
+cursor: pointer;
+position: relative;
+
+}
+
+
+.filt-alf-menu{
+
+    width: 140px;
+    height: 0px;
+    box-shadow: var(--box-shadow);
+    position: absolute;
+    top: 4.5rem;
+    left: 3rem;
+    background-color: var(--secendcolor);
+    z-index: 3;
+    overflow: hidden;
+    opacity: 0;
+    transition: height 0.5s ease, opacity 0.5s ease;
+    pointer-events: none;
+
+}
+
+.filt-alf-menu.active{
+
+    height: auto;
+    opacity: 1;
+    pointer-events: auto;
+
+}
+
+
+
+
+
+.filt-alf-menu button{
+
+width: 100%;
+background: var(--secendcolor);
+transition: box-shadow 1s ease;
+box-shadow: inset 0 0 0 var(--secendcolor);
+
+}
+
+
+.filt-alf-menu button:hover{
+
+box-shadow: inset 0 0 0 5px var(--box-bg);
+
+}
+
+.filter-spec button{
+
+background: var(--secendcolor);
+
+}
+
+.filter-spec button i{
+
+color: var(--maincolor);
+background-color: var(--box-bg);
+padding: .5rem;
+border-radius: 100%;
+cursor: pointer;
+font-size: 1.5rem;
+
+}
+
+
+.scrollvariants{
+
+border-radius: 100%;
+width: 45px;
+height: 45px;
+background: var(--box-bg);
+display: flex;
+justify-content: center;
+align-items: center;
+cursor: pointer;
+flex-direction: column;
+
+}
+
+
+.kvadrat{
+
+width: 15px;
+height: 15px;
+border: .15rem solid var(--maincolor);
+margin: .1rem;
+
+}
+
+

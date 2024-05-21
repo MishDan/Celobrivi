@@ -1,0 +1,357 @@
+.headdesain{
+
+display: flex;
+justify-self: center;
+align-items: center;
+flex-direction: column;
+
+}
+
+
+.des1{
+
+width: 100%;
+background: var(--maincolor);
+height: 8rem;
+position: relative;
+
+}
+
+.des2{
+
+position: absolute;
+background: var(--maincolor);
+width: 560px;
+height: 100px;
+transform: rotateZ(10deg);
+
+}
+
+.des2.left{
+
+transform: rotateZ(10deg);
+top: 4.715rem;
+left: 14.5rem;
+
+}
+
+.des2.right{
+
+transform: rotateZ(-10deg);
+top: 4.715rem;
+right: 14.5rem;
+
+}
+
+
+.headdesain h3{
+
+color: var(--box-bg);
+background: var(--maincolor);
+font-family: var(--rob);
+margin: 0 auto;
+padding: 1rem;
+width: 300px;
+font-size: 3rem;
+text-align: center;   
+border-radius: 3%;
+z-index: 1;
+
+}
+    
+.atsaksmedtext p{
+    
+margin: 2rem 2rem 0 2rem;
+font-family: var(--exo);
+color: var(--textcolor);
+font-size: 1.3rem;
+line-height: 2rem;
+margin: 2rem;
+text-align: center;
+
+}
+
+
+.formbuttons{
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+.formbuttons button{
+
+padding: .5rem 1rem;
+color: var(--maincolor);
+background: var(--box-bg);
+font-weight: bold;
+font-size: 1.2rem;
+cursor: pointer;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+
+}
+
+.formbuttons i{
+
+position: absolute;
+color: var(--maincolor);
+background: var(--box-bg);
+font-size: 1.2rem;
+padding: .5rem 1rem;
+border-radius: 100%;
+margin-left: 2rem;
+cursor: pointer;
+right: 18rem;
+bottom: 32.5rem;
+
+}
+
+
+.formbuttons button i{
+
+position: static;
+margin-left: .2rem;
+padding: 0;   
+color: var(--box-bg);
+background: var(--maincolor);
+padding: .3rem .4rem;
+
+}
+
+
+.atinfo{
+
+position: absolute;
+width: 500px;
+height: 600px;
+box-shadow: var(--box-shadow);
+background: var(--secendcolor);
+z-index: 1;
+top: 9rem;
+right: 20rem;
+z-index: 2;
+display: none;
+
+}
+
+.atinfotext p{
+
+font-family: var(--exo);
+color: var(--textcolor);
+font-size: 1rem;
+line-height: 1.8rem;
+margin: 1rem;
+
+}
+
+.atinfotext h3{
+
+font-family: var(--exo);
+color: var(--textcolor);
+font-size: 1.2rem;
+line-height: 1.8rem;
+margin: 1rem;
+    
+}
+
+#infobut:hover + .atinfo {
+
+    display: block;
+
+}
+
+.atinfo:hover {
+
+    display: block;
+    
+}
+
+.atform{
+
+width: 500px;
+height: 700px;
+background: var(--secendcolor);
+box-shadow: var(--box-shadow);
+position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+z-index: 7;
+display: none;
+
+}
+
+.closetagat{
+
+display: flex;
+align-items: center;
+justify-content: right;
+
+}
+
+.atform.atformOpen{
+
+display: block;
+
+}
+
+.atsaforms{
+
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
+
+}
+
+
+.closeformat{
+
+font-size: 2rem;
+padding: .3rem .5rem;
+color: #F90000;
+cursor: pointer;
+text-align: right;
+
+}
+
+.nickname input{
+
+width: 350px;
+height: 40px;
+box-shadow: var(--box-shadow);
+margin: 2.5rem 0 2rem 0;
+font-size: 1.3rem;
+padding: .7rem 1rem;
+
+}
+
+.formstar{
+
+text-align: center;
+font-size: 2rem;
+margin-bottom: 2rem;
+
+}
+
+
+.file-input-container{
+
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 1rem 0;
+
+}
+.file-input {
+ 
+display: none;
+
+}
+
+.file-input-label {
+
+padding: 0.5rem 1rem;
+background-color: var(--maincolor);
+color: var(--box-bg);
+border-radius: 5px;
+cursor: pointer;
+font-size: 1rem;
+font-weight: bold;
+
+}
+
+.file-input-label:hover {
+}
+
+.file-input-icon {
+
+margin-right: 0.5rem;
+
+}
+
+.file-input-label::before {
+
+content: "\f093";
+font-family: FontAwesome;
+margin-right: 0.5rem;
+
+}
+
+
+.komentars{
+
+width: 350px;
+height: 300px;
+box-shadow: var(--box-shadow);
+font-size: 1rem;
+padding: .7rem 1rem;
+resize: none; 
+
+}
+    
+    
+.border{
+     
+margin-top: 2rem;
+margin-bottom: 4rem;
+border-bottom: .2rem solid var(--maincolor);
+height: 2px;
+    
+}
+    
+    
+.atsauksems{
+    
+width: 1000px;
+height: auto;
+box-shadow: var(--box-shadow);
+margin: 2rem auto;
+position: relative;
+    
+}
+    
+    
+.atsauksems h3 i{
+    
+color: var(--maincolor);
+background: var(--box-bg);
+border-radius: 100%;
+font-size: 2rem;
+padding: 1rem;
+margin: 2rem .5rem 1rem 2rem;
+    
+}
+    
+    
+.atsauksems h3{
+    
+color: var(--textcolor);
+font-family: var(--se);
+font-size: 1.5rem;
+    
+}
+    
+.atsauksems p{
+    
+font-family: var(--exo);
+margin: 0 1.5rem 2rem 1.5rem;
+    
+}
+    
+.star{
+    
+position: absolute;
+top: 3.3rem;
+left: 14rem;
+font-size: 1.3rem;
+    
+}
+
+
+
