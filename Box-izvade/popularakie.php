@@ -14,7 +14,7 @@ if (mysqli_num_rows($atlasaPopularakos) > 0) {
 
                 <img src='{$Popularakie{'Foto_URL'}}'>
 
-                <a href='celojumi.php'><i class='fa fa-search'></i></a>
+                <a href='Celojumi.php'><i class='fa fa-search'></i></a>
 
                 <div class='popularakienos'>
 
