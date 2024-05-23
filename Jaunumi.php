@@ -39,46 +39,69 @@ require 'head-foot/header.php';
 
 <div class="faqflex">
 
-    <div class="faqbox" id="left">
-
-        <h3>Maršruts un transporta veids</h3>
-
-        <p>Kādi ir pieejamie transporta veidi un maršruti, lai sasniegtu galamērķi? Vai ir iespējams ceļot ar vilcienu, autobusu vai automašīnu?</p>
-    
+    <div class="faqbox">
+        <div class="jaunumijaut">
+            <h3>Kādas ceļojumu un ekskursiju pakalpojumus mēs piedāvājam?</h3>
+        </div>
+        <div class="jaunumiatb">
+            <p>Mēs piedāvājam plašu izvēli no individuāli plānotiem ceļojumiem līdz grupu ekskursijām, ietverot kultūras, vēstures, dabas un gastronomiskos tematus.</p>
+        </div>
     </div>
 
 
-    <div class="faqbox" id="center">
-
-        <h3>Brauciena ilgums un laika grafiks</h3>
-
-        <p>Cik ilgs ir ceļojums un kāds ir plānotais laika grafiks? Vai ir paredzētas pastāvīgas vai sezonas izmaiņas?</p>
-    
-    </div>
-
-    <div class="faqbox" id="rigth">
-
-        <h3>Biļetes un rezervācijas</h3>
-
-        <p>Vai ir nepieciešama biļete vai rezervācija? Vai ir jārezervē vietas iepriekš vai var to izdarīt uz vietas?</p>
-    
+    <div class="faqbox">
+        <div class="jaunumijaut">
+            <h3>Kādas apskates vietas un objekti ir pieejami ar jūsu kompāniju?</h3>
+        </div>
+        <div class="jaunumiatb">
+            <p>Mēs piedāvājam iespēju apmeklēt gan populāras tūristu vietas, gan arī mazāk zināmus, taču interesantus apskates objektus, kas palīdzēs atklāt jaunas Latvijas noslēpumainas puses.</p>
+        </div>
     </div>
 
 
-</div>
-
-<div class="container">
-
-    <div class="faqbuttons">
-
-        <a class="prev" onclick="prevFAQ()"><i class="fa fa-angle-left"></i></a>
-
-        <a class="next" onclick="nextFAQ()"><i class="fa fa-angle-right"></i></a>
-
+    <div class="faqbox">
+        <div class="jaunumijaut">
+            <h3>Vai mēs nodrošināt ekskursijas ar krievu valodas vadību</h3>
+        </div>
+        <div class="jaunumiatb">
+            <p>Jā, mēs piedāvājam profesionālu gidu un tulku pakalpojumus arī krievu valodā, lai nodrošinātu komfortu un sapratni ceļotājiem.</p>
+        </div>
     </div>
 
-</div>
 
+    <div class="faqbox">
+        <div class="jaunumijaut">
+            <h3>Kāda ir vidējā ilgums mēsu ekskursijām?</h3>
+        </div>
+        <div class="jaunumiatb">
+            <p>Ekskursiju ilgums var atšķirties atkarībā no izvēlētā maršruta un programma. Mēs piedāvājam gan īstermiņa, gan vairāku dienu ceļojumus, lai apmierinātu visdažādākos klientu vēlmes.</p>
+        </div>
+    </div>
+
+
+    <div class="faqbox">
+        <div class="jaunumijaut">
+            <h3>Kādu transportu mēs izmantojat ekskursijās?</h3>
+        </div>
+        <div class="jaunumiatb">
+            <p>Mēs izmantojam komfortablu transportu, tai skaitā autobusus, mikroautobusus un automašīnas, atkarībā no grupas izmēra un maršruta prasībām.</p>
+        </div>
+    </div>
+
+
+    <div class="faqbox">
+        <div class="jaunumijaut">   
+            <h3>Vai mēs piedāvājat ceļotāju apdrošināšanu?</h3>
+        </div>
+        <div class="jaunumiatb">
+            <p>Jā, mēs sadarbojamies ar uzticamām apdrošināšanas kompānijām, lai nodrošinātu pilnvērtīgu ceļotāju apdrošināšanu, ietverot medicīnisko apdrošināšanu, negadījumu apdrošināšanu, bagāžas apdrošināšanu un citus aizsardzības veidus.</p>
+        </div>
+    </div>
+
+
+
+
+    </div>
 
 </section>
 

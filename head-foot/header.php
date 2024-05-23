@@ -10,11 +10,12 @@
     <link rel="stylesheet" href="assets/style_jaunumi.css">
     <link rel="stylesheet" href="assets/style_celojumi.css">
     <link rel="stylesheet" href="assets/style_atsauksmes.css">
+    <link rel="stylesheet" href="assets/style_parmums.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
-    <script src="assets/script.js" defer=""></script>
-
+    <script src="assets/script-animation.js" defer=""></script>
+    <script src="assets/script-form.js" defer=""></script>
 </head>
 <body>
 
@@ -63,7 +64,7 @@
             <a href="./">Sakum Lapa</a>
             <a href="Jaunumi.php">Jaunumi</a>
             <a href="Celojumi.php">Celojumi</a>
-            <a href="#">Par mums</a>
+            <a href="Par_mums.php">Par mums</a>
             <a href="Atsauksem.php">Atsauksmes</a>
 
         </div>
