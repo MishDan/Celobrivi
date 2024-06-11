@@ -1,0 +1,2261 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Tilt+Neon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+*{
+
+font-family: "Nunito Sans", sans-serif;
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+text-decoration: none;
+border: 0;
+outline: none;
+transition: all .3s ease-in-out;
+
+}
+
+
+:root{
+
+    --maincolor: #ed8e09;
+    --secendcolor: #fff;
+    --textcolor: #000;
+    --secendtextcolor: #fff;
+    --tresatextcolor: #fff;
+    --box-bg: #fcf0de;
+    --box-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, 10%);
+    --exo: "Exo 2", sans-serif;
+    --ows: "Oswald", sans-serif;
+    --rob: "Roboto Mono", sans-serif;
+
+    transition: all 0.5s ease; 
+
+}
+
+
+html {
+
+    scroll-behavior: smooth;
+
+}
+
+
+body{
+
+background: var(--secendcolor);
+
+}
+
+
+@keyframes slideUp {
+    
+    0% { bottom: -6.5rem; }
+    50% { bottom: .4rem; }
+    100% { bottom: 0rem; }
+            
+}
+
+
+.container{
+
+padding: 2rem 15%;
+overflow: hidden;
+        
+} 
+
+/*-----------------------------------------------Preloader------------------------------------------*/
+
+.preloader{
+
+position: fixed;
+left: 0;
+top: 0;
+width: 100%;
+height: 100%;
+z-index: 1000;
+
+}
+
+
+.leftslidebox{
+
+position: fixed;
+right: 0;
+top: 0;
+width: 100%;
+height: 100%;
+background: linear-gradient(0, rgba(255, 255, 255, 0) 50%, var(--box-bg) 50%);
+transition: top 2s ease, right 2s ease;
+
+}
+
+.rightslidebox{
+
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+height: 100%;
+background: linear-gradient(180deg, rgba(255, 255, 255, 0) 50%, var(--box-bg) 50%);
+transition: left 2s ease, bottom 2s ease;
+    
+}
+
+
+.preloader--animation .leftslidebox{
+
+right: -200%;
+        
+}
+
+.preloader--animation .rightslidebox{
+
+left: -200%;
+            
+}
+
+.hiden{
+
+display: none;
+
+}
+
+
+.preloader__loader, .preloader__percents, .preloader__logo{
+
+position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+
+}
+
+.preloader__logo{
+
+top: 38%;
+
+}
+
+
+.preloader__logo p{
+
+color: var(--maincolor);
+font-size: 3rem;
+font-weight: bold;
+font-family: "Kanit", sans-serif;
+    
+}
+    
+    
+.preloader__logo i{
+    
+color: var(--maincolor);
+font-size: 3.2rem;
+        
+}
+
+.preloader__percents{
+
+font-family: var(--rob);
+font-size: 24px;
+font-weight: bold;
+    
+}
+
+.preloader--hide{
+
+display: none;
+
+}
+    
+
+
+
+@keyframes ldio {
+
+0% { transform: translate(-50%,-50%) rotate(0deg); }
+100% { transform: translate(-50%,-50%) rotate(360deg); }
+
+}
+
+.ldio div {
+position: absolute;
+width: 120px;
+height: 120px;
+border: 20px solid #ed8e09;
+border-top-color: transparent;
+border-radius: 50%;
+
+}
+
+.ldio div {
+
+animation: ldio 1s linear infinite;
+top: 100px;
+left: 100px
+
+}
+  
+.loadingio-spinner-rolling {
+
+width: 200px;
+height: 200px;
+display: inline-block;
+overflow: hidden;
+background: rgba(255, 255, 255, 0);
+
+}
+
+.ldio{
+
+width: 100%;
+height: 110%;
+position: relative;
+transform: translateZ(0) scale(1);
+backface-visibility: hidden;
+transform-origin: 0 0;
+ 
+}
+
+.ldio div { 
+
+box-sizing: content-box; 
+
+}
+
+
+/*-----------------------------------------------Header/Nav------------------------------------------*/
+
+header{
+
+border-bottom: var(--maincolor) solid .2rem;
+padding: 2rem;
+box-shadow: var(--box-shadow);
+display: flex;
+justify-content: space-between;
+align-items: center;
+z-index: 2;
+background: var(--secendcolor);
+opacity: 0; 
+transform: translateY(-20px); 
+position: fixed;
+top: 0;
+left: 0;
+transition: opacity 1.5s ease, transform 1.5s ease, top 0.5s ease;
+z-index: 4;
+width: 100%;
+
+}
+
+header:hover{
+
+position: fixed;
+top: 0;
+
+}
+
+
+header.fade-down {
+
+opacity: 1;
+transform: translateY(0);
+
+}
+
+.logo a{
+
+color: var(--maincolor);
+font-size: 1.5rem;
+cursor: pointer;
+font-weight: bold;
+font-family: "Kanit", sans-serif;
+
+}
+
+
+.logo i{
+
+color: var(--maincolor);
+font-size: 1.7rem;
+    
+}
+
+
+.navmenu a, .media-nav-open a{
+
+color: var(--maincolor);
+margin-left: 1rem;
+font-weight: 700;
+background: var(--box-bg);
+padding: .5rem;
+font-family: var(--exo);
+outline: none;
+font-size: 1rem;
+
+}
+
+.navmenu a:hover{
+
+box-shadow: inset 0 0 0 25px var(--maincolor);       
+color: var(--box-bg);
+transition: box-shadow 1s ease, color 1s ease;
+
+}
+    
+
+.media-nav{
+
+display: none;
+
+}
+
+
+/*-----------------------------------------------Admin------------------------------------------*/
+
+#admin {
+
+position: fixed;
+bottom: 0;
+left: 0;
+z-index: 6;
+
+}
+
+.slidebutton {
+
+background-color: var(--maincolor);
+padding: 0;
+position: absolute;
+bottom: .5rem;
+left: .5rem;
+z-index: 5;
+text-align: center;
+width: 3rem;
+height: 2rem; 
+display: flex;
+align-items: center; 
+justify-content: center; 
+cursor: pointer;
+overflow: hidden;
+
+}
+
+.slidebutton p {
+
+color: var(--maincolor);
+font-weight: bold;
+position: absolute;
+left: -6rem;
+    
+
+}
+
+
+.slidebutton i {
+
+color: var(--box-bg);
+font-size: 2rem;
+border-radius: var(--radius); 
+width: 100%; 
+height: 100%; 
+
+}
+
+.slidebutton:hover {
+
+background-color: var(--box-bg);
+padding-left: 6.5rem;
+width: 8.5rem;
+
+}
+
+.slidebutton:hover i {
+
+color: var(--maincolor);
+
+}
+
+.slidebutton:hover p{
+
+position: absolute;
+left: 1rem;
+
+}
+
+.slidebutton.slideopen{ 
+
+background-color: var(--box-bg);
+padding-left: 6.5rem;
+width: 8.5rem;
+z-index: 6;
+    
+}
+
+.slidebutton.slideopen i{ 
+
+color: var(--maincolor);
+
+}
+
+.slidebutton.slideopen p{
+
+position: absolute;
+left: 1rem;   
+
+}
+
+.closetagat{
+
+display: flex;
+align-items: center;
+justify-content: right;
+width: 100%;
+        
+}
+    
+.closetagat i{
+    
+font-size: 2rem;
+padding: .3rem .5rem;
+color: #F90000;
+cursor: pointer;
+        
+}
+
+.adminboard{
+
+display: none; 
+position: fixed;
+top: 50%; 
+left: 50%; 
+transform: translate(-50%, -50%);
+width: 1350px; 
+height: 250px; 
+background: var(--secendcolor);
+border: 2px solid var(--maincolor);
+overflow-y: auto; 
+z-index: 7;
+text-align: right;
+    
+}
+
+.adminboard.adminboardOpen{
+
+display: block;
+
+}
+
+.function{
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.funcbox{
+
+margin: 1rem;
+cursor: pointer;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+
+.funcbox i{
+
+background: var(--box-bg);
+padding: 2rem;
+font-size: 3rem;
+color: var(--maincolor);
+
+}
+
+.funcbox p{
+
+color: var(--maincolor);
+margin-top: .5rem;
+font-weight: bold;
+font-size: 1.3rem;
+font-family: var(--rob);
+    
+}
+
+
+
+#overlay {
+
+display: none; 
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background-color: rgba(0, 0, 0, 0.5); 
+z-index: 5; 
+    
+}
+ 
+#overlay.overlayOpenAd, #overlay.overlayOpenat, #overlay.overlayOpenMt, #overlay.overlayOpenPt, #overlay.overlayOpenPpar, #overlay.overlayAtsaEditOpen, #overlay.overlayCelEditOpen{
+
+display: block;
+    
+}
+
+#overlay.openmModerAddForm, #overlay.overlayOpenLPEdit, #overlay.overlayOpenLietEdit, #overlay.overlayOpenPassEdit, #overlay.overlayPievCelForm{
+
+display: block;
+z-index: 7;
+        
+}
+
+
+/*-----------------------------------------------Celojumu-parvalde-----------------------------------------*/
+
+.celparvalde{
+
+width: 1400px;
+height: 800px;
+background: var(--secendcolor);
+position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+display: none;
+align-items: center;
+flex-direction: column;
+z-index: 6;
+
+
+}
+
+.celparvalde.active{
+
+display: block;
+
+}
+
+.funkbuttoncel{
+
+width: 90%;
+height: 100px;
+box-shadow: var(--box-shadow);
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.funkbuttoncel button{
+
+margin: .5rem;
+padding: .5rem .8rem;
+font-weight: bold;
+font-family: var(--rob);
+font-size: .9rem;
+cursor: pointer;
+
+}
+
+.green{
+
+color: #185E00;
+background: #C5FFB1;
+
+}
+
+.green:hover{
+
+box-shadow: inset 0 0 0 25px #185E00;       
+color: #C5FFB1;
+transition: box-shadow 1s ease, color 1s ease;
+
+}
+
+.yellowbtn{
+
+color: #917E00;
+background: #FFEA60;
+
+}
+
+.yellowbtn:hover{
+
+box-shadow: inset 0 0 0 25px #917E00;       
+color: #FFEA60;
+transition: box-shadow 1s ease, color 1s ease;
+
+}
+
+.red{
+
+color: #D50000;
+background: #FFCACA;
+
+}
+
+.red:hover{
+
+box-shadow: inset 0 0 0 25px #D50000;       
+color: #FFCACA;
+transition: box-shadow 1s ease, color 1s ease;
+
+}
+
+.scrolcel{
+
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
+height: 650px;
+overflow: auto;
+flex-wrap: wrap;
+
+}
+
+.celojumiParvaldeBoxi{
+
+width: 550px;
+height: 700px;
+box-shadow: var(--box-shadow);
+margin: 1rem;
+position: relative;
+
+}
+
+.celparfoto{
+
+width: 100%;
+height: 30%;
+
+}
+
+.celparfoto img{
+
+width: 100%;
+height: 100%;
+object-fit: cover;
+
+}
+
+.celparinfo{
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+
+.celparinfo h3{
+
+color: var(--maincolor);
+border-bottom: .2rem solid var(--maincolor);
+margin: 1rem;
+font-family: var(--rob);
+
+}
+
+.celparinfo p{
+
+font-family: var(--exo);
+width: 90%;
+
+}
+
+.celParTable{
+
+border-collapse: collapse;
+border: .2rem solid var(--maincolor);
+margin: 1.5rem auto;
+
+}
+
+.celParTable td{
+
+font-size: 1.1rem;
+padding: .5rem 1rem;
+
+}
+
+.editcel, .deletcel{
+
+display: none;
+
+}
+
+
+.deletcel.active, .editcel.active{
+
+display: block;
+    
+}
+
+.deletcel i, .editcel i{
+
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+font-size: 3rem;
+border-radius: 100%;
+padding: .8rem 1rem;
+cursor: pointer;
+z-index: 6;
+
+}
+
+
+.editcel i{
+
+color: #C2A700;
+background: #FFF5B7;
+
+}
+
+.editcel i:hover{
+
+box-shadow: inset 0 0 0 35px #C2A700;       
+color: #FFF5B7;
+transition: box-shadow 1s ease, color 1s ease;
+
+}
+
+
+.overlayCp{
+
+display: none; 
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background-color: rgba(0, 0, 0, 0.5); 
+z-index: 5; 
+        
+}
+
+.overlayCp.active{
+
+display: block;
+
+}
+
+
+
+.deletcel form{
+
+width: 0;
+height: 0;
+padding: 0;
+margin: 0;
+
+}
+
+.celPievienoForm{
+
+width: 500px;
+height: 700px;
+position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+background: var(--secendcolor);
+display: none;
+align-items: center;
+flex-direction: column;
+z-index: 8;
+
+}
+
+.celPievienoForm.active{
+
+display: block;
+
+}
+
+.CelPievFormInfo{
+
+width: 100%;
+height: 15%;
+background: var(--maincolor);
+
+}
+
+
+.CelPievFormInfo h3{
+
+width: 100%;
+background: var(--maincolor);
+color: var(--box-bg);
+font-family: var(--rob);
+font-weight: bold;
+text-align: center;
+font-size: 1.5rem;
+padding: 0rem 1rem 1rem 1rem;
+
+}
+
+
+.celPievienoForm button{
+
+width: 60%;    
+font-size: 1.5rem;
+background: var(--box-bg);
+color: var(--maincolor);
+font-weight: bold;
+padding: .8rem 1rem;
+margin: 1rem;
+cursor: pointer;
+
+}
+
+.celPievienoForm button:hover{
+
+box-shadow: inset 0 0 0 35px var(--maincolor);       
+color: var(--box-bg);
+transition: box-shadow 1s ease, color 1s ease;
+
+}
+
+.celPievienoForm form{
+
+width: 100%;
+height: 100%;
+display: flex;
+align-items: center;
+flex-direction: column;
+margin-top: 2rem;
+
+}
+
+.celPievienoForm input{
+    
+background: #CBCBCB;
+font-size: 1rem;
+padding: .5rem .8rem;
+color: #474747;
+margin-bottom: 1rem;
+width: 65%;
+
+}
+
+.celApraksts{
+
+resize: none;
+color: #474747;
+background: #CBCBCB;
+padding: .5rem .8rem;
+font-size: 1rem;
+width: 65%;
+height: 40%;
+
+}
+    
+
+/*-----------------------------------------------Coment-parvalde-----------------------------------------*/
+
+
+.comentparvalde{
+
+width: 1400px;
+height: 800px;
+background: var(--secendcolor);
+position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+display: none;
+align-items: center;
+flex-direction: column;
+z-index: 6;
+
+}
+
+.comentparvalde.active{
+
+display: block;
+
+}
+
+.funkbuttonflex{
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+
+
+.funkbutton{
+
+width: 80%;
+height: 100px;
+box-shadow: var(--box-shadow);
+display: flex;
+justify-content: left;
+align-items: center;
+
+}
+
+.funkbutton button{
+
+margin: 1rem;
+padding: .5rem .8rem;
+color: #D50000;
+font-weight: bold;
+font-family: var(--rob);
+font-size: 1.1rem;
+background: #FFCACA;
+cursor: pointer;
+
+}
+
+.funkbutton button:hover{
+
+box-shadow: inset 0 0 0 25px #D50000;       
+color: #FFCACA;
+transition: box-shadow 1s ease, color 1s ease;
+    
+}
+
+.scrolcoment{
+
+width: 100%;
+height: 650px;
+overflow: auto;
+
+}
+
+.atsauksemsParvalde{
+    
+width: 70%;
+height: auto;
+box-shadow: var(--box-shadow);
+margin: 1rem auto;
+position: relative;
+    
+}
+
+.kominfoParvalde{
+
+display: flex;
+justify-content: left;
+align-items: center;
+padding: 1rem;
+    
+}
+    
+    
+.kominfoParvalde i{
+    
+color: var(--maincolor);
+background: var(--box-bg);
+border-radius: 100%;
+font-size: 1.5rem;
+padding: 1rem;
+    
+}
+    
+    
+.kominfoParvalde h3{
+    
+color: var(--textcolor);
+font-family: var(--se);
+font-size: 1rem;
+margin-left: .5rem;
+    
+}
+    
+.atsauksemsParvalde p{
+    
+font-family: var(--exo);
+margin: 0 1.5rem 2rem 1.5rem;
+    
+}
+    
+
+
+.starParvalde{
+
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: 1rem;
+
+}
+
+.starParvalde i{
+
+color: var(--textcolor);
+font-size: 1rem;
+background: none;
+margin: 0;
+padding: 0;
+margin-left: .3rem;
+
+}
+
+.starParvalde .yellow{
+
+color: #ffdd00;
+
+}
+
+.atsaukmes_image_parvalde{
+
+display: flex;
+margin-left: 2rem;
+width: auto;
+height: auto;
+
+}
+
+.atsauksemsParvalde img {
+
+width: 150px;
+height: 250px;
+object-fit: cover; 
+margin: 0 .5rem 2rem 0;
+
+}
+
+.deletcoment{
+
+display: none;
+
+}
+
+
+
+.deletcoment i{
+
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+color: #D50000;
+background: #FFCACA;
+font-size: 2rem;
+border-radius: 100%;
+padding: .8rem 1rem;
+cursor: pointer;
+z-index: 6;
+
+}
+
+.deletcoment i:hover{
+
+box-shadow: inset 0 0 0 25px #D50000;       
+color: #FFCACA;
+transition: box-shadow 1s ease, color 1s ease;
+
+}
+
+
+#overlayAt{
+
+display: block; 
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background-color: rgba(0, 0, 0, 0.5); 
+z-index: 5; 
+        
+}
+
+
+.deletcoment.active{
+
+display: block;
+
+}
+
+
+.deletcoment form{
+
+width: 0;
+height: 0;
+padding: 0;
+margin: 0;
+
+}
+
+
+/*-----------------------------------------------ModeratorEdit-PieteikumuEdit-----------------------------------------*/
+
+
+
+.moderatoredit, .Pieteikumuparvalde{
+
+width: 1400px;
+height: 800px;
+background: var(--secendcolor);
+position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+display: none;
+align-items: center;
+flex-direction: column;
+z-index: 6;
+
+}
+
+.moderatoredit.active, .Pieteikumuparvalde.active{
+
+display: flex;
+
+}
+
+
+.moderedittable, .piettable{
+
+width: 90%;
+height: auto;
+margin: .5rem 0 0 0;
+background: var(--maincolor);
+color: var(--box-bg);
+box-shadow: var(--box-shadow);
+
+}
+
+.tablenosakums{
+
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+
+.tablenosakums p{
+
+font-size: 1.5rem;
+margin: 2rem 2rem 0 2rem;
+font-family: var(--rob);
+font-weight: bold;
+
+}
+
+.tablenosakums button{
+
+display: flex;
+align-items: center;
+justify-content: center;
+padding: .8rem 1rem;
+font-size: 1rem;
+font-weight: bold;
+margin: 2rem 2rem 0 2rem;
+cursor: pointer;
+font-family: var(--exo);
+
+}
+
+.tablenosakums button:hover{
+
+box-shadow: inset 0 0 0 25px #F4B55C;
+transition: box-shadow .5s ease;
+
+}
+
+.ModeratorTable, .PieteikumuTable{
+
+width: 100%;
+height: auto;
+max-height: 80%;
+color: #000;
+margin-top: 2rem;
+border-collapse: collapse;
+
+}
+
+.ModeratorTable th, .PieteikumuTable th{
+
+height: 5%;
+background: var(--box-bg);
+font-size: 1rem;
+padding: .6rem 1rem;
+font-weight: bold;
+font-family: var(--exo);
+
+}
+
+.ModeratorTable td, .PieteikumuTable td{
+
+padding: .6rem 1rem;
+text-align: center;
+background: var(--secendcolor);
+font-family: var(--exo);
+
+}
+
+.ModeratorTable tr:hover td, .PieteikumuTable tr:hover td{
+    background: #CEC3B2;
+}
+
+.ModeratorTable td button, .PieteikumuTable td button{
+
+background: var(--secendcolor);
+padding: 0;
+margin: 0;
+
+}
+
+
+.ModeratorTable td i, .PieteikumuTable td i{
+
+background: var(--box-bg);
+color: var(--maincolor);
+font-size: 1rem;
+cursor: pointer;
+padding: .5rem .7rem;
+
+}
+
+
+.ModeratorTable td button i:hover, .PieteikumuTable td button i:hover{
+
+box-shadow: inset 0 0 0 25px var(--maincolor);       
+color: var(--box-bg);
+transition: box-shadow 1s ease, color 1s ease;
+    
+}
+
+.tableeditbtn{
+
+width: 11%;
+
+}
+
+.moderform{
+
+display: flex;
+justify-content: left;
+align-items: center;
+
+}
+
+.tableeditbtn i{
+
+margin: 0 0 0 .5rem;
+
+}
+
+.tableeditbtn button{
+
+width: 0;
+height: 0;
+padding: 0;
+margin: 0;
+
+}
+
+
+.moderaddform{
+
+width: 400px;
+height: 500px;
+position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+background: var(--secendcolor);
+display: none;
+z-index: 8;
+
+}
+
+.moderaddform.active{
+
+display: block;
+
+}
+
+
+.moderaddnos{
+
+width: 100%;
+height: 20%;
+text-align: center;
+background: var(--maincolor);
+
+}
+
+.moderaddnos h3{
+
+color: var(--box-bg);
+font-weight: bold;
+font-size: 1.7rem;
+font-family: var(--rob);
+
+}
+
+
+.modrfromadd{
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+width: 100%;
+height: 70%;
+
+}
+
+.modrfromadd form{
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+width: 100%;
+height: 100%;
+
+}
+
+.modrfromadd input{
+
+background: #CBCBCB;
+width: 70%;
+height: 13%;
+margin: 1rem;
+padding: .5rem;
+font-size: 1rem;
+
+}
+
+.modrfromadd button{
+
+color: var(--maincolor);
+background: var(--box-bg);
+margin-top: 3.5rem;
+padding: .8rem 1rem;
+font-size: 1.3rem;
+font-weight: bold;
+font-family: var(--rob);
+cursor: pointer;
+
+}
+
+.modrfromadd button:hover{
+
+box-shadow: inset 0 0 0 35px var(--maincolor);       
+color: var(--box-bg);
+transition: box-shadow 1s ease, color 1s ease;
+
+}
+
+
+.lietvards-pasvord, .lietvardsedit, .passedit{
+
+width: 400px;
+height: 500px;
+position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+background: var(--secendcolor);
+display: none;
+align-items: center;
+flex-direction: column;
+z-index: 8;
+
+}
+
+
+.lietvards-pasvord.active, .lietvardsedit.active, .passedit.active{
+
+display: flex;
+
+}
+
+.lietvar-pasvordinfo{
+
+width: 100%;
+background: var(--maincolor);
+margin-bottom: 6rem;
+
+}
+
+
+.lietvar-pasvordinfo h3{
+
+width: 100%;
+background: var(--maincolor);
+color: var(--box-bg);
+font-family: var(--rob);
+font-weight: bold;
+text-align: center;
+font-size: 1.5rem;
+padding: 0rem 1rem 1rem 1rem;
+
+}
+
+
+.lietvards-pasvord button, .lietvardsedit button, .passedit button{
+
+width: 60%;    
+font-size: 1.5rem;
+background: var(--box-bg);
+color: var(--maincolor);
+font-weight: bold;
+padding: .8rem 1rem;
+margin: 1rem;
+cursor: pointer;
+
+}
+
+.lietvards-pasvord button:hover, .lietvardsedit button:hover, .passedit button:hover{
+
+box-shadow: inset 0 0 0 35px var(--maincolor);       
+color: var(--box-bg);
+transition: box-shadow 1s ease, color 1s ease;
+
+}
+
+.lietvardsedit form, .passedit form{
+
+width: 100%;
+height: 100%;
+display: flex;
+align-items: center;
+flex-direction: column;
+
+}
+
+.lietvardsedit input, .passedit input{
+    
+background: #CBCBCB;
+font-size: 1.2rem;
+padding: .8rem 1rem;
+color: #474747;
+margin-bottom: 3rem;
+
+}
+
+/*-----------------------------------------------Pieteikumu-Parskate-----------------------------------------*/
+
+
+.Pieteikumu_parskate {
+
+width: 1300px;
+height: 700px;
+position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+z-index: 7;
+background: var(--secendcolor);
+box-shadow: var(--box-shadow);
+display: none;
+    
+}
+
+
+.Pieteikumu_parskate.active{
+
+display: flex;
+
+}
+
+.celojumi_Form.celojumi_FormOpen{
+
+display: flex;
+
+}
+
+
+.piet_img{
+
+width: 60%;
+height: 700px;
+
+}
+
+
+.piet_img img{
+
+width: 100%;
+height: 100%;
+object-fit: cover;
+
+}
+
+
+.piet_info{
+
+margin: 1rem;
+width: 40%;
+display: flex;
+align-items: center;
+flex-direction: column;
+
+}
+
+.piet_info h3{
+
+color: var(--maincolor);
+font-size: 2rem;
+border-bottom: .1rem solid var(--maincolor);
+font-family: var(--rob);
+
+}
+
+
+.piet_apraksts{
+
+width: 100%;
+height: auto;
+margin-bottom: 2rem;
+
+}
+
+
+.piet_apraksts p{
+
+color: var(--textcolor);
+font-size: 1rem;
+border: none;
+margin: 1rem .5rem;
+font-family: var(--exo);
+
+}
+
+.piet_cena{
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.piet_cena p{
+
+color: var(--maincolor);
+background: var(--box-bg);
+padding: .5rem 1.5rem;
+font-size: 1.5rem;
+font-weight: bold;
+font-family: var(--exo);
+
+}
+
+
+.celojumi_Form button{
+
+color: var(--maincolor);
+background-color: var(--box-bg);
+font-weight: bold;
+padding: .5rem 1rem;
+font-size: 1.5rem;
+margin-top: 1rem;
+cursor: pointer;
+
+}
+
+.celojumi_Form button:hover{
+
+box-shadow: inset 0 0 0 25px var(--maincolor);
+color: var(--box-bg); 
+transition: box-shadow 1s ease, color 1s ease;
+
+}
+
+.form_close{
+
+width: 100%;
+color: #F90000;
+font-size: 1.5rem;
+margin: 0;
+cursor: pointer;
+text-align: right;
+
+}
+
+
+.cel_input{
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+width: 100%;
+
+}
+
+.cel_input input{
+
+width: 90%;
+height: 40px;
+background: #CBCBCB;
+color: #474747;
+padding: .5rem 1rem;
+margin-top: 1rem;
+
+}
+
+.cilveTable{
+
+border: .2rem solid var(--maincolor);
+width: 30rem;
+border-collapse: collapse;
+
+}
+
+
+.cilveTable td{
+
+font-size: 1.2rem;
+font-family: var(--exo);
+padding: .5rem;
+
+}
+
+.colon1{
+
+background: var(--maincolor);
+font-weight: bold;
+width: 10rem;
+text-align: center;
+
+}
+
+.colon2{
+
+text-align: center;
+
+}
+
+.colon2:hover{
+
+background: var(--box-bg);
+
+}
+
+
+/*-----------------------------------------------FAQ------------------------------------------*/
+
+
+#faq{
+
+text-align: center;
+margin-top: 2rem;
+
+}
+
+
+.uzraksts h3{
+
+color: var(--maincolor);
+font-weight: bold;
+font-family: var(--rob);
+font-size: 2rem;
+padding: 2rem;
+border-radius: var(--radius);
+
+}
+
+
+
+.faqflex{
+
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+
+}
+
+
+.faqbox{
+
+width: 600px;
+height: 100px;
+margin: 1rem;
+padding: 1rem 2rem;
+border-bottom: .1rem solid var(--maincolor);
+cursor: pointer;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+.faqbox i{
+
+color: var(--secendcolor);
+font-size: 2rem;
+background: var(--maincolor) ;
+border-radius: 100%;
+padding: .5rem 1.2rem;
+transform: rotateZ(0deg);
+    
+}
+
+
+
+.faqbox h3{
+
+color: var(--maincolor);
+font-weight: bold;
+font-size: 1.5rem;
+width: 100%;
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+.faqbox:hover{
+
+background: var(--box-bg);
+
+}
+
+.faqbox:hover i{
+
+transform: rotateZ(360deg);
+transition: transform .5s ease;
+    
+}
+
+
+/*-----------------------------------------------Social------------------------------------------*/
+
+
+#social h3{
+
+text-align: center;
+color: var(--maincolor);
+background: var(--box-bg);
+border-radius: var(--radius);
+padding: 2rem;
+font-size: 1.5rem;
+margin-top: 5rem;
+
+}
+
+
+.socflex{
+
+display: flex;
+justify-content: center;
+
+}
+
+
+.socbox{
+
+transform:
+    rotateX(51deg)
+    rotateZ(25deg);
+transform-style: preserve-3d;
+border-radius: 32px;
+box-shadow:
+    1px 1px 0 1px #f9f9fb,
+    -1px 0 28px 0 rgba(34, 33, 81, 0.01),
+    28px 28px 28px 0 rgba(34, 33, 81, 0.25);
+transition:
+    .4s ease-in-out transform,
+    .4s ease-in-out box-shadow;
+background: var(--box-bg);
+border: none;
+width: 80px;
+height: 80px;
+margin: 0 3rem;
+margin-top: 5rem;
+display: flex;
+justify-content: center;
+align-items: center;
+cursor: pointer;
+
+}
+
+
+.socbox i{
+
+color: var(--maincolor);
+font-size: 4rem;
+transform: rotateX(-90deg)translateY(-2rem);
+
+}
+
+
+.socbox:hover{
+
+transform: scale(1);
+box-shadow:
+    1px 1px 0 1px #f9f9fb,
+    -1px 0 28px 0 rgba(237, 142, 9, 0.3),
+    0 0 20px rgba(237, 142, 9, 0.3);
+
+}
+
+.socbox:hover i{
+
+transform: scale(0.7);
+
+}
+
+/*-----------------------------------------------Footer------------------------------------------*/
+
+
+footer{
+
+position: relative;
+padding: 3rem;
+color: var(--box-bg);
+background: var(--maincolor);
+font-size: 1.2rem;
+font-family: var(--exo);
+text-align: center;
+overflow: hidden;
+
+}
+
+.lefttree{
+
+position: absolute;
+width: 50%;
+height: 100%;
+bottom: -3rem;
+left: 0;
+
+}
+
+.lefttree img{
+
+position: absolute;
+width: 100%;
+height: 130%;
+bottom: 0;
+left: 0;
+opacity: 0.3;
+
+}
+
+#rotateleft{
+
+transform: rotateY(180deg) translateX(-50px);
+
+}
+
+
+.righttree img{
+
+position: absolute;
+width: 50%;
+height: 130%;
+bottom: -3rem;
+right: 0;
+opacity: 0.3;
+transform: rotateY(0deg) translateX(-50px);
+
+}
+
+#rotateright{
+
+transform: rotateY(0deg) translateX(100px);
+    
+}
+
+
+
+/*-----------------------------------------------Media-1100px------------------------------------------------------------------------------------------------------------------*/
+
+
+@media (max-width: 1100px){
+
+
+.container{
+
+padding: 2rem 5%;
+overflow: hidden;
+        
+} 
+                
+}
+
+
+/*-----------------------------------------------Media-850px------------------------------------------------------------------------------------------------------------------*/
+
+
+@media (max-width: 850px){
+
+html{
+
+font-size: 75%;
+            
+}
+
+.container{
+
+padding: 2rem 10%;
+overflow: hidden;
+        
+} 
+
+/*-----------------------------------------------nav-menu-850px------------------------------------------*/
+
+    
+.navmenu{
+
+display: none;
+
+}
+
+
+header{
+
+position: fixed;
+    
+}
+
+.media-nav{
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.media-nav i{
+
+color: var(--maincolor);
+font-weight: bold;
+font-size: 2rem;
+
+}
+
+.media-nav-open{
+
+position: fixed;
+right: 1rem;
+top: 6rem;
+width: 100px;
+height: 230px;
+background: var(--secendcolor);
+box-shadow: var(--box-shadow);
+display: none;
+
+}
+
+.media-nav-open.active{
+
+display: block;
+
+}
+
+.media-nav-open a{
+
+margin: .8rem auto; 
+    
+}
+
+
+.menuflex{
+
+display: flex;
+flex-direction: column;
+
+}
+
+.socflex{
+
+display: flex;
+justify-content: center;
+
+}
+
+/*-----------------------------------------------Social-850px------------------------------------------*/
+
+
+.socbox{
+
+transform:
+    rotateX(0)
+    rotateZ(0);
+background: var(--secendcolor);
+width: 0;
+height: 0;
+margin-top: 5rem;
+margin-bottom: 1.8rem;
+
+
+}
+
+
+.socbox i{
+
+font-size: 3rem;
+transform: rotateX(0)translateY(0);
+
+}
+
+
+.socbox:hover{
+
+transform: scale(1);
+
+}
+
+.socbox:hover i{
+
+transform: scale(1);
+
+}
+                
+}
+
+
+    
+/*-----------------------------------------------Nav-Menu-600px------------------------------------------*/
+
+@media (max-width: 600px){
+
+html{
+
+font-size: 65%;
+            
+}
+
+.preloader__logo p{
+
+font-size: 2rem;
+    
+}
+
+.ldio div {
+position: absolute;
+width: 100px;
+height: 100px;
+border: 10px solid #ed8e09;
+border-top-color: transparent;
+border-radius: 50%;
+
+}
+
+.container{
+
+padding: 0;
+overflow: hidden;
+        
+} 
+    
+
+.navmenu{
+
+display: none;
+
+}
+
+
+header{
+
+position: fixed;
+    
+}
+
+.media-nav{
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.media-nav i{
+
+color: var(--maincolor);
+font-weight: bold;
+font-size: 2rem;
+
+}
+
+.media-nav-open{
+
+position: fixed;
+right: 1rem;
+top: 6rem;
+width: 100px;
+height: 200px;
+background: var(--secendcolor);
+box-shadow: var(--box-shadow);
+display: none;
+
+}
+
+.media-nav-open.active{
+
+display: block;
+
+}
+
+.media-nav-open a{
+
+margin: .8rem auto; 
+    
+}
+
+
+.menuflex{
+
+display: flex;
+flex-direction: column;
+
+}
+
+
+/*-----------------------------------------------Login-media-600px------------------------------------------*/
+
+.login-form{
+
+width: 320px; 
+height: 380px; 
+    
+}
+
+
+.user, .key{
+
+width: 250px;
+height: 40px;
+
+}
+
+
+.user i, .key i{
+
+font-size: 1.7rem;
+
+}
+
+/*-----------------------------------------------FAQ-Media-600px-----------------------------------------*/
+
+
+
+.uzraksts h3{
+
+font-size: 1.8rem;
+
+}
+
+
+.faqbox{
+
+width: 70%;
+height: 15%;
+
+}
+
+
+.faqbox i{
+
+font-size: 1.2rem;
+padding: .4rem .8rem;
+    
+}
+
+
+
+.faqbox h3{
+
+font-size: 1.2rem;
+
+}
+
+/*-----------------------------------------------Social-media-600px-----------------------------------------*/
+
+
+.socflex{
+
+display: flex;
+justify-content: center;
+
+}
+
+
+.socbox{
+
+transform:
+    rotateX(0)
+    rotateZ(0);
+background: var(--secendcolor);
+width: 0;
+height: 0;
+margin-top: 5rem;
+margin-bottom: 1.8rem;
+
+
+}
+
+
+.socbox i{
+
+font-size: 2.3rem;
+transform: rotateX(0)translateY(0);
+
+}
+
+
+.socbox:hover{
+
+transform: scale(1);
+
+}
+
+.socbox:hover i{
+
+transform: scale(1);
+
+}
+
+
+/*-----------------------------------------------Footer-media-600px-----------------------------------------*/
+
+
+
+.lefttree img{
+
+width: 130%;
+height: 130%;
+transform: rotateY(0deg) translateX(-100px);
+
+}
+
+#rotateleft{
+
+transform: rotateY(180deg) translateX(-30px);
+
+}
+
+
+.righttree img{
+
+width: 130%;
+height: 130%;
+transform: rotateY(0deg) translateX(100px);
+
+}
+
+#rotateright{
+
+transform: rotateY(0deg) translateX(30px);
+    
+}
+
+}

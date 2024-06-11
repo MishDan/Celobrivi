@@ -1,0 +1,85 @@
+/*-----------------------------------------------Jaunumi-------------------------------------------------------*/
+#jaunumi{
+
+margin-top: 10rem;
+
+}
+
+
+.jaunumipiedavajumi {
+
+border-bottom: .2rem solid var(--maincolor);
+width: 0%;
+transition: width 2.5s ease;
+    
+}
+
+.jaunumipiedavajumi.slide-left{
+
+width: 100%;
+
+}
+    
+    
+.jaunumipiedavajumi h3{
+    
+color: var(--maincolor);
+font-weight: bold;
+background: var(--box-bg);
+width: 270px;
+padding: 1rem;
+font-family: var(--rob);
+    
+}
+
+/*-----------------------------------------------Jaunumi-piedavajumi-----------------------------------------*/    
+    
+.pidavajumi{
+    
+display: flex;
+flex-wrap: wrap; 
+justify-content: center;
+align-items: center;
+    
+}
+    
+
+/*-----------------------------------------------Media-600px------------------------------------------------------------------------------------------------------------------*/
+
+    
+@media (max-width: 600px){
+    
+html{
+
+font-size: 65%;
+    
+}
+
+/*-----------------------------------------------Jaunumi-media-600px-----------------------------------------*/
+
+.jaunumipiedavajumi {
+
+border-bottom: .2rem solid var(--maincolor);
+width: 0%;
+margin: 2rem;
+transition: width 2.5s ease;
+    
+}
+  
+    
+.jaunumipiedavajumi h3{
+    
+width: 180px;
+    
+}
+    
+/*-----------------------------------------------Jaunumi-piedavajumi-media-600px-----------------------------------------*/    
+
+.pidavajumi{
+    
+display: block;
+    
+}
+
+
+}

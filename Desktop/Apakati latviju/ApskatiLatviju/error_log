@@ -1,0 +1,466 @@
+[11-Jun-2024 01:02:17 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 01:02:29 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Jaunumi/jaunumi.php on line 17
+[11-Jun-2024 01:05:06 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 01:05:19 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 01:05:19 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 01:05:19 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 01:10:01 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 01:11:10 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 01:11:18 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 01:11:40 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 01:11:45 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 01:12:04 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 01:12:36 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 01:12:46 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Jaunumi/jaunumi.php on line 17
+[11-Jun-2024 01:13:20 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 01:13:20 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 01:13:20 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 01:13:20 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 01:13:20 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 01:13:20 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 01:13:20 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 01:14:04 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 01:14:04 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 01:14:04 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 01:14:04 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 01:14:04 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 01:14:04 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 01:14:04 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 01:14:16 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 01:14:16 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 01:14:16 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 01:14:16 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 01:14:16 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 01:14:16 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 01:14:16 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 01:14:23 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 01:14:23 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 01:14:23 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 01:14:23 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 01:14:23 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 01:14:23 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 01:14:23 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 01:14:36 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 01:14:36 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 01:14:36 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 01:14:36 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 01:14:36 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 01:14:36 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 01:14:36 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 01:14:52 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 01:14:52 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 01:14:52 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 01:14:52 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 01:14:52 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 01:14:52 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 01:14:52 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 01:15:02 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 01:15:14 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 01:15:14 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 01:15:14 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 01:16:42 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 01:16:50 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 01:16:50 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 01:16:50 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 01:20:54 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 01:25:30 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 01:25:34 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 01:25:50 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 01:26:12 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Jaunumi/jaunumi.php on line 17
+[11-Jun-2024 01:30:22 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 01:39:07 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 01:39:07 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 01:39:07 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 01:41:04 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 02:03:00 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 02:03:00 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 02:03:00 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 02:03:00 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 02:03:00 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 02:03:00 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 02:03:00 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 02:03:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 02:03:19 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 02:03:52 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 02:04:07 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 02:04:33 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Jaunumi/jaunumi.php on line 17
+[11-Jun-2024 02:05:46 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 02:05:46 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 02:05:46 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 02:05:46 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 02:05:46 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 02:05:46 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 02:05:46 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 02:05:46 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 02:05:46 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 73
+[11-Jun-2024 02:07:07 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 02:07:07 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 02:07:07 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 02:21:07 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 02:21:19 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 02:21:19 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 02:21:19 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 02:22:19 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 02:22:22 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 02:22:22 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 02:22:22 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 02:22:26 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 02:23:15 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 02:23:41 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 02:24:04 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 02:24:32 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 02:24:40 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/popularakie.php on line 15
+[11-Jun-2024 02:25:38 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 02:25:38 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 02:25:38 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 02:53:30 Europe/Riga] PHP Warning:  require(PHP/Popularakie/popularakie.php): failed to open stream: No such file or directory in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/index.php on line 91
+[11-Jun-2024 02:53:30 Europe/Riga] PHP Fatal error:  require(): Failed opening required 'PHP/Popularakie/popularakie.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/index.php on line 91
+[11-Jun-2024 02:53:36 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 02:53:36 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 02:53:36 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 02:53:49 Europe/Riga] PHP Warning:  require(PHP/Popularakie/popularakie.php): failed to open stream: No such file or directory in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/index.php on line 91
+[11-Jun-2024 02:53:49 Europe/Riga] PHP Fatal error:  require(): Failed opening required 'PHP/Popularakie/popularakie.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/index.php on line 91
+[11-Jun-2024 02:54:18 Europe/Riga] PHP Warning:  require(PHP/Popularakie/popularakie.php): failed to open stream: No such file or directory in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/index.php on line 91
+[11-Jun-2024 02:54:18 Europe/Riga] PHP Fatal error:  require(): Failed opening required 'PHP/Popularakie/popularakie.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/index.php on line 91
+[11-Jun-2024 02:55:01 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 02:55:06 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 02:55:06 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 02:55:06 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 02:55:13 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 02:55:17 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 02:55:17 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 02:55:17 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 02:55:20 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 02:55:28 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 02:55:28 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 02:55:29 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 05:40:27 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 05:40:31 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 05:40:31 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 05:40:31 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 05:41:37 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 05:41:41 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 05:41:41 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 05:41:41 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 05:42:04 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 05:42:50 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 05:42:56 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 05:42:56 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 05:42:57 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 05:44:37 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 05:44:42 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 05:44:45 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 05:45:03 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 05:45:03 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 05:45:03 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 05:45:03 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 05:45:03 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 05:45:03 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 05:45:11 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 05:45:11 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 05:45:11 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 05:45:11 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 05:45:11 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 05:45:11 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 05:45:15 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 05:45:15 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 05:45:15 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 05:45:15 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 05:45:15 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 05:45:15 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 05:45:21 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 05:45:26 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 05:45:31 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 05:45:45 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 05:45:46 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 05:45:46 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 06:55:38 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 06:55:41 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 06:55:41 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 06:55:41 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 06:55:45 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 06:56:01 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 06:56:01 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 06:56:01 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 06:56:17 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 06:56:31 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 06:56:31 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 06:56:32 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 06:57:15 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 06:57:19 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 06:57:19 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 06:57:19 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 06:57:30 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 06:57:34 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 06:57:34 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 06:57:34 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 09:03:34 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 09:03:37 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 09:03:37 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 09:03:37 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 09:29:03 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 09:42:53 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:42:53 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:42:53 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:42:53 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:42:53 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:42:53 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:43:52 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:43:52 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:43:52 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:43:52 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:43:52 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:43:52 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:44:06 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:44:06 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:44:06 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:44:06 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:44:06 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:44:06 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:44:17 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:44:17 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:44:17 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:44:17 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:44:17 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:44:17 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:44:59 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:44:59 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:44:59 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:44:59 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:44:59 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:44:59 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:45:12 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:45:12 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:45:12 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:45:12 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:45:12 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:45:12 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:45:23 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:45:23 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:45:23 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:45:23 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:45:23 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:45:23 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:46:44 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:46:44 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:46:44 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:46:44 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:46:44 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:46:44 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:46:57 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:46:57 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:46:57 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:46:57 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:46:57 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:46:57 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:47:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:47:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:47:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:47:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:47:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:47:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:11 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:11 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:11 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:47:11 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:47:11 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:47:11 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:13 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:13 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:13 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:47:13 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:47:13 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:47:13 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:29 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:29 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:29 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:47:29 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:47:29 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:47:29 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:43 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:43 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:47:43 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:47:43 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:47:43 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:47:43 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:48:09 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:48:09 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:48:09 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:48:09 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:48:09 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:48:09 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:49:05 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:49:05 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:49:05 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:49:05 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:49:05 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:49:05 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:49:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:49:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:49:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:49:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:49:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:49:14 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:49:21 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:49:21 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:49:21 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:49:21 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:49:21 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:49:21 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:49:26 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:49:26 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:49:26 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:49:26 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:49:26 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:49:26 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:51:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:51:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:51:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:51:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:51:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:51:10 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:51:19 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:51:19 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:51:19 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:51:19 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:51:19 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:51:19 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:51:26 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:51:26 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:51:26 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:51:26 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:51:26 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:51:26 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:51:33 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:51:33 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:51:33 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:51:33 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:51:33 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:51:33 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:53:37 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:53:37 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:53:37 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:53:37 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:53:37 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:53:37 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:53:39 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:53:39 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:53:39 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:53:39 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:53:39 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:53:39 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:53:42 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:53:42 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:53:42 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:53:42 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:53:42 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:53:42 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:53:43 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:53:43 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:53:43 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:53:43 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:53:43 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:53:43 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:53:44 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:53:44 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:53:44 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 09:53:44 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 09:53:44 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 09:53:44 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 09:53:48 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 09:53:48 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 09:53:49 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 09:53:51 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 09:54:14 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 09:54:20 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 09:54:20 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 09:54:20 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 09:56:14 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 09:56:16 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 09:56:16 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 09:56:16 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 10:08:42 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 10:09:04 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 10:09:19 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 10:09:19 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 10:09:20 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 10:09:29 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 10:09:35 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Jaunumi/jaunumi.php on line 17
+[11-Jun-2024 11:03:31 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 11:04:04 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 11:04:04 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 11:04:04 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 11:04:04 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 11:04:04 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 11:04:12 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 11:04:12 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 11:04:13 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 11:06:13 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 11:06:20 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 11:06:20 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 11:06:20 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 11:06:20 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 11:06:20 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 11:06:20 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 11:10:39 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 11:11:24 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 11:11:24 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 11:11:24 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 13:26:47 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 13:27:24 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 13:27:24 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 13:27:24 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 13:27:24 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 13:27:24 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 13:27:36 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 13:27:36 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 13:27:36 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7
+[11-Jun-2024 13:29:15 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 13:29:39 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 13:29:39 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 13:29:39 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 13:29:39 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 13:29:39 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 13:29:39 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 13:29:47 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 13:29:47 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 13:29:47 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 13:29:47 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 13:29:47 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 13:29:47 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 13:29:47 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 13:29:47 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 13:29:47 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 13:29:47 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 13:29:47 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 31
+[11-Jun-2024 13:29:47 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 35
+[11-Jun-2024 13:29:47 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 39
+[11-Jun-2024 13:29:47 Europe/Riga] PHP Notice:  Undefined index: Id in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Atsauksmes/atsauksmes.php on line 45
+[11-Jun-2024 13:30:09 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 14:49:29 Europe/Riga] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/Popularakie/popularakie.php on line 15
+[11-Jun-2024 14:49:48 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 14:49:48 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/assets/connect_db.php on line 26
+[11-Jun-2024 14:49:48 Europe/Riga] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/grobina1/public_html/3pt2/viktorovs/ApskatiLatviju/PHP/login-logout/login.php on line 7

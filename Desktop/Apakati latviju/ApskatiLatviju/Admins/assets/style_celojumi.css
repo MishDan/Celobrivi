@@ -1,0 +1,1009 @@
+/*-----------------------------------------------Filtracija------------------------------------------*/
+
+
+#apraksts{
+
+margin: 15rem auto 0 auto;
+text-align: center;
+
+}
+
+#apraksts h3{
+
+color: var(--maincolor);
+background: var(--box-bg);
+font-family: var(--rob);
+margin: 0 auto;
+text-align: center;
+width: 850px;
+font-size: 2rem;
+
+}
+
+#apraksts p{
+
+margin: 2rem 2rem 0 2rem;
+color: var(--textcolor);
+font-size: 1.3rem;
+line-height: 2rem;
+margin: 2rem;
+font-family: var(--exo); 
+
+}
+
+
+
+
+.filtracija{
+ 
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 1.5rem 3rem;
+opacity: 0; 
+transform: translateX(-100%);
+animation-fill-mode: forwards; 
+box-shadow: var(--box-shadow);
+transition: opacity 0.5s ease-out;
+z-index: 2;
+position: relative;
+background: var(--secendcolor);
+
+}
+
+
+@keyframes slideInFromLeft {
+    0% {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.filtracija.fade-rigth {
+
+animation: slideInFromLeft 1s ease-out forwards;
+
+}
+
+
+.filt-alf button{
+
+font-weight: bold;
+color: var(--maincolor);
+background: var(--box-bg);
+padding: .5rem 1rem; 
+cursor: pointer;
+position: relative;
+
+}
+
+
+.filt-alf-menu{
+
+    width: 140px;
+    height: 0px;
+    box-shadow: var(--box-shadow);
+    position: absolute;
+    top: 4.5rem;
+    left: 3rem;
+    background-color: var(--secendcolor);
+    z-index: 3;
+    overflow: hidden;
+    opacity: 0;
+    transition: height 0.5s ease, opacity 0.5s ease;
+    pointer-events: none;
+
+}
+
+.filt-alf-menu.active{
+
+height: auto;
+opacity: 1;
+pointer-events: auto;
+
+}
+
+
+.filt-alf-menu button{
+
+width: 100%;
+background: var(--secendcolor);
+transition: box-shadow 1s ease;
+box-shadow: inset 0 0 0 var(--secendcolor);
+
+}
+
+
+.filt-alf-menu button:hover{
+
+box-shadow: inset 0 0 0 5px var(--box-bg);
+
+}
+
+.filter-spec button{
+
+background: var(--secendcolor);
+
+}
+
+.filter-spec button i{
+
+color: var(--maincolor);
+background-color: var(--box-bg);
+padding: .5rem;
+border-radius: 100%;
+cursor: pointer;
+font-size: 1.5rem;
+
+}
+
+
+.scrollvariants{
+
+border-radius: 100%;
+width: 45px;
+height: 45px;
+background: var(--box-bg);
+display: flex;
+justify-content: center;
+align-items: center;
+cursor: pointer;
+flex-direction: column;
+
+}
+
+
+.kvadrat{
+
+width: 15px;
+height: 15px;
+border: .15rem solid var(--maincolor);
+margin: .1rem;
+
+}
+
+.filtracija-select{
+
+position: fixed;
+width: 400px;
+height: 800px;
+background: var(--secendcolor);
+box-shadow: var(--box-shadow);
+top: 8rem;
+right: -35rem;
+z-index: 2;
+
+}
+
+
+.filtracija-select.filtracija-selectOpen{
+
+right: 0;
+
+}
+
+
+.close_filter{
+
+text-align: left;
+
+}
+
+.close_filter i{
+
+font-size: 2rem;
+padding: .3rem .5rem;
+color: #F90000;
+cursor: pointer;
+
+}
+
+/*-----------------------------------------------Celojumi------------------------------------------*/
+
+.celojumuflex{
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+
+}
+
+
+
+.celojumiboxi{
+
+width: 350px;             
+height: 450px;              
+overflow: hidden;          
+margin: 30px 0 0 30px;
+display: flex;            
+align-items: center;       
+justify-content: center; 
+position: relative; 
+opacity: 1;
+transform: translateY(20px);
+transition: opacity 1s ease, transform 1s ease;;
+cursor: pointer;
+position: static;
+
+}
+
+
+.celojumiboxi img{
+    
+filter: grayscale(80%);   
+object-fit: cover;         
+width: 100%;               
+height: 100%;  
+
+}
+
+
+.celojumiboxi h3, .celojumiboxi p{
+
+position: absolute;
+
+}
+
+
+.celojumiboxi:hover img{
+
+filter: grayscale(0%);   
+transform: scale(1.2);
+
+}
+
+.celojumiboxi i{
+
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%) rotate(0deg);
+color: var(--maincolor);
+background: var(--box-bg);
+border-radius: 100%;
+padding: 0rem;
+font-size: 0rem;
+cursor: pointer;
+    
+}
+
+
+.celojumiboxi:hover i{
+
+padding: 1rem;
+font-size: 2rem;
+transform: translate(-50%, -50%) rotate(360deg);
+    
+}
+
+
+.celojumuinfo{
+
+background: rgba(0, 0, 0, 70%);
+height: 100px;
+width: 100%;
+position: absolute;
+left: 0rem;
+bottom: -6.5rem;
+transition: bottom 0.6s ease-in-out;
+color: var(--tresatextcolor);
+    
+}
+
+.nosflex{
+
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 2.5rem;
+
+}
+
+.celojumuinfo h3{
+
+font-family: var(--rob);
+font-size: 1rem;
+
+}
+
+
+.celojumuinfo p{
+
+font-family: var(--rob);
+font-size: 1rem;
+margin-top: 3rem;
+
+}
+
+
+.celojumiboxi:hover .celojumuinfo{
+
+animation: slideUp .6s forwards;
+    
+}
+    
+/*-----------------------------------------------Celojumi-form------------------------------------------*/
+
+
+.celojumi_Form {
+
+width: 1300px;
+height: 700px;
+position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+z-index: 7;
+background: var(--secendcolor);
+box-shadow: var(--box-shadow);
+display: none;
+    
+}
+
+.celojumi_Form.celojumi_FormOpen{
+
+display: flex;
+
+}
+
+
+.form_img{
+
+width: 60%;
+height: 700px;
+
+}
+
+
+.form_img img{
+
+width: 100%;
+height: 100%;
+object-fit: cover;
+
+}
+
+
+.form_info{
+
+margin: 1rem;
+width: 40%;
+display: flex;
+align-items: center;
+flex-direction: column;
+
+}
+
+.form_info h3{
+
+color: var(--maincolor);
+font-size: 2rem;
+border-bottom: .1rem solid var(--maincolor);
+font-family: var(--rob);
+
+}
+
+
+.form_apraksts{
+
+width: 100%;
+height: 150px;
+
+}
+
+
+.form_apraksts p{
+
+color: var(--textcolor);
+font-size: 1rem;
+border: none;
+margin: 1rem .5rem;
+font-family: var(--exo);
+
+}
+
+
+#form_cena{
+
+color: var(--maincolor);
+background: var(--box-bg);
+padding: .5rem 1.5rem;
+font-size: 1.5rem;
+margin-top: 2rem;
+font-weight: bold;
+font-family: var(--exo);
+
+}
+
+
+.celojumi_Form button{
+
+color: var(--maincolor);
+background-color: var(--box-bg);
+font-weight: bold;
+padding: .5rem 1rem;
+font-size: 1.5rem;
+margin-top: 1rem;
+cursor: pointer;
+
+}
+
+.celojumi_Form button:hover{
+
+box-shadow: inset 0 0 0 25px var(--maincolor);
+color: var(--box-bg); 
+transition: box-shadow 1s ease, color 1s ease;
+
+}
+
+.form_close{
+
+width: 100%;
+color: #F90000;
+font-size: 1.5rem;
+margin: 0;
+cursor: pointer;
+text-align: right;
+
+}
+
+
+.cel_input{
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+width: 100%;
+
+}
+
+.cel_input form{
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+width: 100%;
+height: 100%;
+
+}
+
+.cel_input input{
+
+width: 90%;
+height: 40px;
+background: #CBCBCB;
+color: #474747;
+padding: .5rem 1rem;
+margin-top: 1rem;
+
+}
+
+
+
+/*-----------------------------------------------Media-1300px------------------------------------------------------------------------------------------------------------------*/
+
+
+@media (max-width: 1300px){
+
+
+.celojumi_Form {
+
+width: 90%;
+height: 70%;
+display: none;
+
+}
+
+
+.form_img{
+
+width: 100%;
+height: 100%;
+
+}
+
+.form_info{
+
+width: 100%;
+
+}
+
+
+.form_apraksts{
+
+width: 90%;
+height: 20%;
+margin-top: 1rem;
+
+}
+
+
+.celojumi_Form button{
+
+margin-top: 2rem;
+
+}
+
+
+.cel_input input{
+
+width: 70%;
+height: 35px;
+font-size: 1.1rem;
+padding: .8rem 1rems;
+
+}
+
+}
+
+
+/*-----------------------------------------------Media-1100px------------------------------------------------------------------------------------------------------------------*/
+
+
+@media (max-width: 1100px){
+
+.scrollvariants{
+
+width: 35px;
+height: 35px;
+display: none;
+
+}
+
+.celojumi_Form {
+
+width: 90%;
+height: 70%;
+display: none;
+    
+}
+
+
+.form_img{
+
+width: 100%;
+height: 100%;
+
+}
+
+.form_info{
+
+width: 100%;
+
+}
+
+
+.form_apraksts{
+
+width: 90%;
+height: 20%;
+margin-top: 1rem;
+
+}
+
+
+.celojumi_Form button{
+
+margin-top: 2rem;
+
+}
+
+
+.cel_input input{
+
+width: 70%;
+height: 35px;
+font-size: 1.1rem;
+padding: .8rem 1rems;
+
+}
+
+
+}
+
+/*-----------------------------------------------Media-850px------------------------------------------------------------------------------------------------------------------*/
+
+
+@media (max-width: 850px){
+
+/*-----------------------------------------------filter-850px-----------------------------------------*/
+
+#apraksts h3{
+
+margin: 0 auto;
+width: 80%;
+font-size: 1.7rem;
+
+}
+
+.filtracija{
+    
+padding: 1.5rem 3rem;
+width: 100%;
+margin: 0 auto;
+
+}
+
+.filt-alf button{
+
+font-size: .9rem;
+padding: .5rem 1rem; 
+
+
+}
+
+
+.filt-alf-menu{
+
+width: 102px;
+top: 4rem;
+left: 3rem;
+
+}
+
+.filter-spec button i{
+
+text-align: center;
+padding: .5rem;
+font-size: 1.3rem;
+    
+}
+
+
+.scrollvariants{
+
+width: 25px;
+height: 25px;
+display: none;
+
+}
+
+
+.filtracija-select{
+
+width: 300px;
+height: 500px;
+right: -50rem;
+
+}
+
+.scrollvariants{
+
+width: 35px;
+height: 35px;
+display: none;
+
+}
+
+
+/*-----------------------------------------------Celojumi-850px-----------------------------------------*/
+
+.celojumuflex{
+
+display: flex;
+
+}
+
+.celojumiboxi{
+
+width: 300px;             
+height: 400px;              
+margin: 1.5rem auto;
+
+}
+
+
+.celojumiboxi img{
+        
+filter: grayscale(0%);           
+
+}
+
+
+.celojumiboxi i{
+    
+display: none;
+        
+}
+
+
+.celojumuinfo{
+    
+height: 15%;
+width: 100%;
+left: 0rem;
+bottom: 0rem;
+        
+}
+
+.nosflex{
+
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 1.8rem;
+    
+}
+
+.celojumuinfo h3{
+
+font-family: var(--rob);
+font-size: 1rem;
+
+}
+
+
+.celojumuinfo p{
+
+font-size: 1.1rem;
+margin-top: 3rem;
+
+}
+
+/*-----------------------------------------------Celojumi-form-850px-----------------------------------------*/
+
+
+.celojumi_Form {
+
+width: 90%;
+height: 70%;
+display: none;
+    
+}
+
+.celojumi_Form.celojumi_FormOpen{
+
+display: block;
+
+}
+
+
+.form_img{
+
+width: 100%;
+height: 20%;
+
+}
+
+.form_info{
+
+margin: 1rem auto;
+width: 100%;
+
+}
+
+
+.form_apraksts{
+
+width: 90%;
+height: 20%;
+
+}
+
+
+.celojumi_Form button{
+
+margin-top: 2rem;
+
+}
+
+
+.cel_input input{
+
+width: 70%;
+height: 25px;
+font-size: 1.2rem;
+
+}
+
+}
+
+/*-----------------------------------------------Media-600px------------------------------------------------------------------------------------------------------------------*/
+
+@media (max-width: 600px){
+    
+
+#apraksts{
+
+margin: 10rem auto 0 auto;
+
+}
+
+#apraksts h3{
+
+margin: 0 auto;
+width: 85%;
+font-size: 1.7rem;
+
+}
+
+.filtracija{
+    
+padding: 1.5rem 3rem;
+width: 90%;
+margin: 0 auto;
+
+}
+
+.filt-alf button{
+
+font-size: .9rem;
+padding: .5rem 1rem; 
+
+
+}
+
+
+.filt-alf-menu{
+
+width: 102px;
+top: 4rem;
+left: 3rem;
+
+}
+
+.filter-spec button i{
+
+text-align: center;
+padding: .5rem;
+font-size: 1.3rem;
+    
+}
+
+
+.scrollvariants{
+
+width: 25px;
+height: 25px;
+display: none;
+
+}
+
+
+.filtracija-select{
+
+width: 300px;
+height: 500px;
+right: -50rem;
+
+}
+
+
+/*-----------------------------------------------Celojumi-600px-----------------------------------------*/
+
+.celojumuflex{
+
+display: block;
+
+}
+
+
+
+.celojumiboxi{
+
+width: 250px;             
+height: 350px;                     
+margin: 1.5rem auto;
+
+}
+
+
+.celojumiboxi img{
+        
+filter: grayscale(0%);           
+
+}
+
+
+.celojumiboxi i{
+    
+display: none;
+        
+}
+
+
+.celojumuinfo{
+    
+height: 15%;
+width: 100%;
+left: 0rem;
+bottom: 0rem;
+        
+}
+
+.nosflex{
+
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 1.8rem;
+    
+}
+
+.celojumuinfo h3{
+
+font-family: var(--rob);
+font-size: 1rem;
+
+}
+
+
+.celojumuinfo p{
+
+font-size: 1.1rem;
+margin-top: 3rem;
+
+}
+
+
+/*-----------------------------------------------Celojumi-form-600px-----------------------------------------*/
+
+
+.celojumi_Form {
+
+width: 90%;
+height: 70%;
+display: none;
+    
+}
+
+.celojumi_Form.celojumi_FormOpen{
+
+display: block;
+
+}
+
+
+.form_img{
+
+width: 100%;
+height: 20%;
+
+}
+
+.form_info{
+
+margin: 1rem auto;
+width: 100%;
+
+}
+
+
+.form_apraksts{
+
+width: 90%;
+height: 20%;
+
+}
+
+
+.celojumi_Form button{
+
+margin-top: 2rem;
+
+}
+
+
+.cel_input input{
+
+width: 70%;
+height: 25px;
+font-size: 1.2rem;
+
+}
+    
+
+}    
+
+
+
+
+

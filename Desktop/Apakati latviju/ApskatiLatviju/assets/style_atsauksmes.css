@@ -1,0 +1,535 @@
+.headdesain{
+
+display: flex;
+justify-self: center;
+align-items: center;
+flex-direction: column;
+
+}
+
+
+.des1{
+
+width: 100%;
+background: var(--maincolor);
+height: 8rem;
+position: relative;
+
+}
+
+
+.headdesain h3{
+
+color: var(--box-bg);
+background: var(--maincolor);
+font-family: var(--rob);
+margin: 0 auto;
+padding: 1rem;
+width: 300px;
+font-size: 3rem;
+text-align: center;   
+border-bottom-right-radius: 3rem;
+border-bottom-left-radius: 3rem;
+z-index: 1;
+
+}
+    
+.atsaksmedtext p{
+    
+margin: 2rem 2rem 0 2rem;
+font-family: var(--exo);
+color: var(--textcolor);
+font-size: 1.3rem;
+line-height: 2rem;
+margin: 2rem;
+text-align: center;
+
+}
+
+
+.formbuttons{
+
+display: block;
+width: 100%;
+
+}
+
+
+.butonpos{
+
+display: flex;
+justify-content: right;
+
+}
+
+
+.formbuttons button{
+
+padding: .5rem 1rem;
+margin: 0 auto;
+color: var(--maincolor);
+background: var(--box-bg);
+font-weight: bold;
+font-size: 1.2rem;
+cursor: pointer;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+
+}
+
+.formbuttons button:hover{
+
+box-shadow: inset 0 0 0 25px var(--maincolor);
+color: var(--box-bg); 
+transition: box-shadow 1s ease, color 1s ease;
+
+}
+
+.formbuttons button:hover i{
+
+color: var(--maincolor); 
+background: var(--box-bg);
+transition: background 1s ease, color 1s ease;
+
+}
+
+
+
+.formbuttons i{
+
+color: var(--maincolor);
+background: var(--box-bg);
+font-size: 1.2rem;
+padding: .5rem 1rem;
+border-radius: 100%;
+margin-left: 2rem;
+cursor: pointer;
+position: relative;
+
+}
+
+
+.formbuttons button i{
+
+position: static;
+margin-left: .2rem;
+padding: 0;   
+color: var(--box-bg);
+background: var(--maincolor);
+padding: .3rem .4rem;
+
+}
+
+
+.atinfo{
+
+position: absolute;
+width: 500px;
+height: 600px;
+box-shadow: var(--box-shadow);
+background: var(--secendcolor);
+z-index: 3;
+top: 9rem;
+right: 19rem;
+display: none;
+
+}
+
+.atinfotext p{
+
+font-family: var(--exo);
+color: var(--textcolor);
+font-size: 1rem;
+line-height: 1.8rem;
+margin: 1rem;
+
+}
+
+.atinfotext h3{
+
+font-family: var(--exo);
+color: var(--textcolor);
+font-size: 1.2rem;
+line-height: 1.8rem;
+margin: 1rem;
+    
+}
+
+#infobut:hover + .atinfo {
+
+display: block;
+
+}
+
+.atinfo:hover {
+
+display: block;
+    
+}
+
+.atform{
+
+width: 500px;
+height: 700px;
+background: var(--secendcolor);
+box-shadow: var(--box-shadow);
+position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+z-index: 7;
+display: none;
+
+}
+
+
+.atform.atformOpen{
+
+display: block;
+
+}
+
+.atsaforms{
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+width: 100%;
+height: auto;
+
+}
+
+
+.atsaforms input{
+
+width: 350px;
+height: 40px;
+box-shadow: var(--box-shadow);
+margin: 2.5rem 0 2rem 0;
+font-size: 1.3rem;
+padding: .7rem 1rem;
+
+}
+
+.formstar{
+
+text-align: center;
+font-size: 2rem;
+margin-bottom: 2rem;
+
+}
+
+
+.komentars{
+
+width: 350px;
+height: 300px;
+box-shadow: var(--box-shadow);
+font-size: 1rem;
+padding: .7rem 1rem;
+resize: none; 
+margin-bottom: 2rem;
+
+}
+
+.atsaksmesRedigesana{
+
+position: relative;
+width: 100%;
+height: auto;
+margin-top: 3rem;
+margin-bottom: 5rem;
+
+}
+
+.atsaforms button{
+
+padding: .5rem 2rem;
+color: var(--maincolor);
+background: var(--box-bg);
+font-size: 1.3rem;
+font-weight: bold;
+cursor: pointer;
+    
+}
+    
+.atsaforms button:hover  {
+    
+box-shadow: inset 0 0 0 25px var(--maincolor);
+color: var(--box-bg); 
+transition: box-shadow 1s ease, color 1s ease;
+
+}
+
+.atsubmiit{
+    
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+    
+}
+    
+
+.border{
+
+height: 3px;
+border-bottom: .2rem solid var(--maincolor);
+z-index: 2;
+position: relative;
+margin-top: 1.5rem;
+
+}
+
+
+.deletcoment{
+
+display: none;
+
+}
+
+      
+.atsauksems{
+    
+width: 90%;
+height: auto;
+box-shadow: var(--box-shadow);
+margin: 2rem auto;
+position: relative;
+    
+}
+
+.kominfo{
+
+display: flex;
+justify-content: left;
+align-items: center;
+padding: 1rem;
+    
+}
+    
+    
+.kominfo i{
+    
+color: var(--maincolor);
+background: var(--box-bg);
+border-radius: 100%;
+font-size: 2rem;
+padding: 1rem;
+    
+}
+    
+    
+.kominfo h3{
+    
+color: var(--textcolor);
+font-family: var(--se);
+font-size: 1.5rem;
+margin-left: .5rem;
+    
+}
+    
+.atsauksems p{
+    
+font-family: var(--exo);
+margin: 0 1.5rem 2rem 1.5rem;
+    
+}
+    
+
+
+.star{
+
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: 1rem;
+
+}
+
+.star i{
+
+color: var(--textcolor);
+font-size: 1.3rem;
+background: none;
+margin: 0;
+padding: 0;
+margin-left: .3rem;
+
+}
+
+.star .yellow{
+
+color: #ffdd00;
+
+}
+
+.atsaukmes_image{
+
+display: flex;
+margin-left: 2rem;
+width: auto;
+height: auto;
+
+}
+
+.atsauksems img {
+
+width: 200px;
+height: 300px;
+object-fit: cover; 
+cursor: zoom-in;
+margin: 0 .5rem 2rem 0;
+
+}
+
+/*-----------------------------------------------Media-1100px------------------------------------------------------------------------------------------------------------------*/
+
+
+@media (max-width: 1100px){
+    
+.atsauksems img {
+
+width: 150px;
+height: 200px;
+    
+}
+
+.atinfo{
+
+width: 500px;
+height: 580px;
+top: 9rem;
+right: 6rem;
+
+}
+
+}
+
+/*-----------------------------------------------Media-850px------------------------------------------------------------------------------------------------------------------*/
+
+
+@media (max-width: 850px){
+
+.atsauksems img {
+
+width: 130px;
+height: 180px;
+    
+}
+
+.atinfo{
+
+width: 400px;
+height: 450px;
+top: 9rem;
+right: 9rem;
+
+}
+
+}
+
+
+/*-----------------------------------------------Media-600px------------------------------------------------------------------------------------------------------------------*/
+
+
+@media (max-width: 600px){
+    
+
+.atinfo{
+
+width: 300px;
+height: 400px;
+top: 9rem;
+right: 3.6rem;
+
+}
+
+.formbuttons{
+
+display: block;
+width: 90%;
+margin: 0 auto;
+    
+}
+
+.atform{
+
+width: 90%;
+height: 60%;
+display: none;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+
+
+.atform.atformOpen{
+
+display: flex;
+    
+}
+
+
+.atsaforms{
+
+display: block;
+width: 90%;
+height: 100%;
+
+}
+
+
+.atsaforms input{
+
+width: 100%;
+height: 40px;
+font-size: 1.3rem;
+padding: .7rem 1rem;
+
+}
+
+
+
+.komentars{
+
+width: 100%;
+height: 250px;
+
+}
+
+.border{
+
+margin: 1.5rem auto 0 auto;
+width: 90%;
+
+}
+
+        
+.atsauksems{
+    
+width: 80%;
+    
+}
+
+
+.atsauksems img {
+
+width: 80px;
+height: 100px;
+
+}
+
+}
+
+
+
+
+
+
+
+
